@@ -1,0 +1,4 @@
+*.DS_Store
+/jpeg-compression/*.DS_Store
+/pca/*.DS_Store
+/pca/dataset/*.DS_Store
